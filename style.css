@@ -1,0 +1,40 @@
+body{
+    padding: 100px;
+}
+
+.motto{
+    text-align: center;
+    color: grey;
+}
+
+.name{
+    color: indigo;
+    font-family: cursive;
+}
+.submit-area{
+    margin-top: 50px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+    padding: 35px;
+}
+
+#transaction-area{
+    display: none;
+}
+
+.status{
+    margin: 0 20px;
+    border-radius: 10px;
+    color: snow;
+    text-align: center;
+    padding: 10px;
+}
+.deposit{
+    background-color: slateblue;
+    }
+.withdraw{
+    background-color: lightsalmon;
+}
+.balance{
+    background-color: orange;
+}
